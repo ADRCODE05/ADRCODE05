@@ -1,41 +1,29 @@
-<!-- Banner principal -->
-![Banner](https://i.imgur.com/G9b2nSS.png)
-
-<h1 align="center">👋 Hola, soy <span style="color:#FFDD00;">Carlos Vellojin</span> 🔥</h1>
+<h1 align="center">👋 Hola, soy <span style="color:#FFDD00;">Carlos Vellojin</span> 🚀</h1>
 
 <p align="center">
-  🚀 <b>Desarrollador en formación</b> | 💻 Apasionado por la tecnología | 🎯 En camino a ser Full Stack Developer
+  💻 Desarrollador en formación | 🎯 En camino a ser Full Stack Developer
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mí
-
-- 🌱 Actualmente aprendiendo: **JavaScript, Node.js, React, Docker**
-- 🎯 Objetivo 2025: Ser **Desarrollador Full Stack**
-- 🛠 Me gusta crear interfaces limpias y funcionales
+- 🌱 Aprendiendo: **JavaScript, Node.js, React, Docker**
 - 💬 Pregúntame sobre: **HTML, CSS, Git, GitHub**
-- ⚡ Fun fact: Me encanta aprender haciendo proyectos prácticos
 
 ---
 
-## 🛠 Lenguajes y Tecnologías
-
+## 🛠 Tecnologías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,postgres,mysql,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,postgres,docker,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
-
+## 📊 Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="GitHub streak" />
-</p>
 
 ---
 
