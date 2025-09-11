@@ -21,7 +21,7 @@
 
 ## 📊 Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ADRCODE05&show_icons=true&theme=tokyonight" />
 </p>
 
 
@@ -35,7 +35,7 @@
 
 ## ✨ Repositorio Destacado
 
-📌 [Mi proyecto favorito](https://github.com/ADRCODE05/mi-proyecto)  
+📌 [Mi proyecto favorito](https://github.com/ADRCODE05/Onboarding)  
 > *"Construyendo cosas increíbles paso a paso..."*
 
 ---
