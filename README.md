@@ -1,7 +1,7 @@
 <!-- Banner principal -->
 ![Banner](https://i.imgur.com/G9b2nSS.png)
 
-<h1 align="center">👋 Hola, soy Carlos Vellojin <span style="color:#FFDD00;">TU NOMBRE</span> 🔥</h1>
+<h1 align="center">👋 Hola, soy <span style="color:#FFDD00;">Carlos Vellojin</span> 🔥</h1>
 
 <p align="center">
   🚀 <b>Desarrollador en formación</b> | 💻 Apasionado por la tecnología | 🎯 En camino a ser Full Stack Developer
