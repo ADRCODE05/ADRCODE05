@@ -7,8 +7,8 @@
 ---
 
 ## 🧑‍💻 Sobre mí
-- 🌱 Aprendiendo: **JavaScript, Node.js, React, Docker**
-- 💬 Pregúntame sobre: **HTML, CSS, Git, GitHub**
+- 🌱 Aprendiendo: **Node.js, React, Docker**
+- 💬 Pregúntame sobre: **HTML, CSS, Git, GitHub, JavaScript**
 
 ---
 
@@ -24,12 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ADRCODE05&show_icons=true&theme=tokyonight" />
 </p>
 
-
----
-
-## 🧰 Tech Stack
-
-`HTML5` `CSS3` `JavaScript` `Node.js` `React` `Express` `PostgreSQL` `Docker` `Git`
 
 ---
 
