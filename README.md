@@ -19,10 +19,24 @@
 
 ---
 
-## 📊 Estadísticas
+## 📊 Mis Estadísticas de GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADRCODE05&show_icons=true&theme=tokyonight" />
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ADRCODE05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADRCODE05&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
+<p align="center">
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADRCODE05&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  ✨ *Si te gusta mi trabajo, dale ⭐ a mis repositorios y sígueme* ✨
+</p>
+
 
 
 ---
