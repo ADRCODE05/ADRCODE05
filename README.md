@@ -23,7 +23,7 @@
 <p align="center">
   <!-- Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ADRCODE05&show_icons=true&theme=tokyowhite&hide_border=true&count_private=true&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=ADRCODE05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
     height="165" 
     alt="GitHub Stats"
   />
