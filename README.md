@@ -18,24 +18,36 @@
 </p>
 
 ---
-
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
   <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ADRCODE05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ADRCODE05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+    height="165" 
+    alt="GitHub Stats"
+  />
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADRCODE05&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADRCODE05&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADRCODE05&theme=tokyonight&hide_border=true" />
+  <!-- Streak (con fallback) -->
+  <img 
+    src="https://streak-stats.demolab.com?user=ADRCODE05&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+    onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=ADRCODE05&theme=tokyo-night&hide_border=true'"
+  />
 </p>
 
 <p align="center">
   ✨ *Si te gusta mi trabajo, dale ⭐ a mis repositorios y sígueme* ✨
 </p>
+
 
 
 
