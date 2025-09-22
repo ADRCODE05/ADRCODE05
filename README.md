@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy <span style="color:#FFDD00;">Carlos Vellojin</span> 🚀</h1>
 
 <p align="center">
-  💻 Desarrollador en formación | 🎯 En camino a ser Full Stack Developer
+  💻 Desarrollador en formación | 🎯 En camino a ser Full Stack Developer y Backend con NodeJS + NestJS
 </p>
 
 ---
